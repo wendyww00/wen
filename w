@@ -11,7 +11,7 @@ end
 git
 git cee
 zora node
-
+zora
 ----------------------------------------------------------------------------------
 
 sudo apt-get update && sudo apt-get upgrade -y
