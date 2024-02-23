@@ -35,7 +35,7 @@ git clone https://github.com/conduitxyz/node.git
 
 
 cd node
---------------------------------------
+--------------------------------------------------------------------------
 ./download-config.py zora-mainnet-0
 
 export CONDUIT_NETWORK=zora-mainnet-0
