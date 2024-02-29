@@ -48,5 +48,5 @@ screen -S log
 
 docker compose up --build
 
-----------------------
+---------------------------------
 screen -r log
