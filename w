@@ -10,7 +10,6 @@ git
 git cee
 zora node
 zora
-
 sudo apt-get update && sudo apt-get upgrade -y
 sudo apt install curl build-essential git screen jq pkg-config libssl-dev libclang-dev ca-certificates gnupg lsb-release -y
 sudo install -m 0755 -d /etc/apt/keyrings
