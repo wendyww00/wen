@@ -8,6 +8,7 @@ git push -u origin main
 end
 git
 git cee
+---------------
 zora node
 sudo apt-get update && sudo apt-get upgrade -y
 sudo apt install curl build-essential git screen jq pkg-config libssl-dev libclang-dev ca-certificates gnupg lsb-release -y
