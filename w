@@ -36,7 +36,7 @@ export CONDUIT_NETWORK=zora-mainnet-0
 ----------------------------------------------------------------------
 cp .env.example .env
 nano .env
------------------------------------------------------------------------
+
 //
 docker compose up --build
 sp
